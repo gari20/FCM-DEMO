@@ -1,0 +1,19 @@
+{
+  "name": "fcm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase",
+    "nodejs"
+  ],
+  "author": "gari",
+  "license": "ISC",
+  "dependencies": {
+    "fcm-node": "^1.6.1",
+    "firebase-admin": "^10.0.2"
+  }
+}
